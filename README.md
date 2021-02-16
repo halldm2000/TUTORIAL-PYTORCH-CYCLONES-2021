@@ -1,4 +1,4 @@
-# NOAA-AI-2020-TUTORIAL
+## TUTORIAL-PYTORCH-CYCLONES-2021
 
 ### A Practical Introduction to Deep Learning for the Earth System Sciences, using PyTorch
 
