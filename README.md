@@ -6,6 +6,6 @@ In this tutorial, we will learn how to build deep learning applications from the
 
 [Click here to download the tutorial PDF](https://drive.google.com/file/d/1E5gWTfudeY6pcKYftB9QxRLyXQVBmRc-/view?usp=sharing)
 
-<a href="https://drive.google.com/file/d/1E5gWTfudeY6pcKYftB9QxRLyXQVBmRc-/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1-6cIzkOtSX1Qa39eoMNoVxb3dPNd61xK/view?usp=sharing">
 <img src="Images/title_slide.jpg" alt="title slide" width="600"/>
 </a>
